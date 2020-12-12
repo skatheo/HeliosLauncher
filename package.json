@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "Nurasium-Launcher",
+  "version": "1.15.2",
+  "productName": "Nurasium-Launcher",
+  "description": "Launcher Nurasium-Serveyr moddé",
+  "author": "Skatheo & Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/skatheo/Nurasium-Launcher.git"
   }
 }
